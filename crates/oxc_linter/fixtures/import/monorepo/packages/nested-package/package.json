@@ -1,6 +1,6 @@
 {
   "name": "nested-monorepo-pkg",
   "dependencies": {
-    "react": "^16.0.0"
+    "react": "^19.1.0"
   }
 }
