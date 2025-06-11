@@ -55,8 +55,8 @@
   },
   "devDependencies": {
     "@codspeed/vitest-plugin": "^4.0.1",
-    "@napi-rs/wasm-runtime": "^0.2.10",
-    "@vitest/browser": "3.2.2",
+    "@napi-rs/wasm-runtime": "^0.2.11",
+    "@vitest/browser": "3.2.3",
     "esbuild": "^0.25.5",
     "playwright": "^1.52.0",
     "vitest": "catalog:",

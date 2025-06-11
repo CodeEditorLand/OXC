@@ -156,7 +156,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "@types/vscode": "1.100.0",
     "@vscode/test-cli": "^0.0.11",
     "@vscode/test-electron": "^2.5.2",
@@ -164,7 +164,7 @@
     "cross-env": "^7.0.3",
     "esbuild": "^0.25.5",
     "ovsx": "^0.10.4",
-    "oxlint": "^0.18.0",
+    "oxlint": "^0.18.1",
     "typescript": "^5.8.3"
   },
   "dependencies": {

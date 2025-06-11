@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@org/package": "^1.0.0",
-    "acorn": "^8.14.1",
+    "acorn": "^8.15.0",
     "esm-package": "^1.0.0",
     "jquery": "^3.7.1",
     "lodash.cond": "^4.5.2",
